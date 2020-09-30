@@ -1,5 +1,5 @@
 def square_array(array)
-array = []
+new_array = []
   counter = 0
   while counter < numbers.length {
     puts numbers[counter] = numbers[counter] * numbers[counter]
