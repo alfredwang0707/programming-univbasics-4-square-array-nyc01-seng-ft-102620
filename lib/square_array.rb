@@ -5,4 +5,4 @@ array = []
     puts numbers[counter] = numbers[counter] * numbers[counter]
     counter += 1
   }
-
+end
