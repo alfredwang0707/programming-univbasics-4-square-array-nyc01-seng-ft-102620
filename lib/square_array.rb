@@ -6,4 +6,3 @@ array = []
     counter += 1
   }
 
-end
